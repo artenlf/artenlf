@@ -3,6 +3,10 @@
 #### I'm currently working as a freelancer, but I'm also looking for either a full-time, or a part-time job.
 #### I'm a father of four (cats 🐈), I love sports 🏈 and music 🎼. The one and only: Five Guys fries to rule them all.
 
+<div align="center">
+<a href="https://github.com/artenlf">
+</div>
+
 #### Technologies I work with:
 
 <div style="display: inline_block"><br>
