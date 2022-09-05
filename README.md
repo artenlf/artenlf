@@ -20,9 +20,8 @@
  </div>
 
 <div align="center"><br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artenlf&show_icons=true&theme=tokyonight&layout=compact" />
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true" />
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artenlf&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 
 #### You can reach me through my social media profiles:
