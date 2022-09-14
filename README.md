@@ -3,6 +3,8 @@
 #### I'm currently working as a freelancer, but I'm also looking for either a full-time, or a part-time job.
 #### I'm a father of four (cats 🐈), I love sports 🏈 and music 🎼. The one and only: Five Guys fries to rule them all.
 
+---
+
 <div align="center">
 <a href="https://github.com/artenlf">
 </div>
@@ -16,6 +18,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+---
+
 #### Technologies I'm currently learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
@@ -23,15 +27,16 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  
+ --- 
   
  </div>
-
 <div align="center"><br>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true" />
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true&layout=compact" />
   <img height="180em" width="420em" src="https://streak-stats.demolab.com/?user=artenlf&theme=tokyonight" />
 </div>
+
+---
 
 #### You can reach me through my social media profiles:
 
