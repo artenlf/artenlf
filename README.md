@@ -12,23 +12,52 @@
 #### Technologies I work with:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  
+  <img align="center" alt="ESLint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+
+  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+
+  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+</div
+
+
+
+
 
 ---
 
 #### Technologies I'm currently learning:
 <div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  
+  <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  
+  <img align="center" alt="GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
+  
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  
+  <img align="center" alt="Storybook" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
+  
+  <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+
+</div>
+  
  --- 
   
  </div>
