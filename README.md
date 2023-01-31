@@ -1,9 +1,16 @@
 ### Hey you! Welcome! 👋
-#### My name is Luís Felipe Arten, I'm a Front-End Web Developer, based in Campinas, São Paulo, Brazil.
-#### I'm currently working as a freelancer, but also looking for either a full-time, or a part-time job.
-#### I'm a father of four (cats 🐈), I love sports 🏈 and music 🎼. The one and only: Five Guys fries to rule them all.
 
 ---
+
+#### My name is Luís Felipe Arten. I'm a Software Developer, based in Campinas, São Paulo, Brazil.
+I'm currently working as a freelancer, but also looking for either a full-time, or a part-time job. I'm a father of four (cats 🐈), I love sports 🏈 and music 🎼. The one and only: Five Guys fries to rule them all.
+
+---
+
+#### Stack: React - TypeScript - Next - Fastify - Prisma - GraphQL - PostgreSQL 
+
+---
+
 
 <div align="center">
 <a href="https://github.com/artenlf">
