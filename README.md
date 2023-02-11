@@ -81,10 +81,12 @@ I'm currently working as a freelancer, but also looking for either a full-time, 
   
  </div>
 <div align="center"><br>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true" />
-  <img height="180em" width="420em" src="https://streak-stats.demolab.com/?user=artenlf&theme=tokyonight" />
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true&layout=compact" />
+  <img height="180rem" width="420rem" src="https://github-readme-stats.vercel.app/api?username=artenlf&show_icons=true&theme=tokyonight&include_all_commits&count_private=true" />
+    <img height="180rem" width="420rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artenlf&langs_count=8&theme=tokyonight&layout=compact" />
+  <img height="180rem" width="420rem" src="https://streak-stats.demolab.com/?user=artenlf&theme=tokyonight" />
+  
 </div>
+
 
 ---
 
