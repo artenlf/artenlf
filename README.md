@@ -7,7 +7,7 @@ I'm currently working as a freelancer, but also looking for either a full-time, 
 
 ---
 
-#### Stack: React - TypeScript - Next - Fastify - Prisma - GraphQL - PostgreSQL 
+#### Stack: React.js - Node.js - TypeScript - Next - Fastify - Prisma - GraphQL - PostgreSQL 
 
 ---
 
@@ -21,8 +21,12 @@ I'm currently working as a freelancer, but also looking for either a full-time, 
 <div style="display: inline_block"><br>
   
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   
@@ -35,6 +39,14 @@ I'm currently working as a freelancer, but also looking for either a full-time, 
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+
+  <img align="center" alt="GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
+
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="Storybook" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
   
   <img align="center" alt="ESLint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
 
@@ -52,27 +64,28 @@ I'm currently working as a freelancer, but also looking for either a full-time, 
 
 #### Technologies I'm currently learning:
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  
-  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
 
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="c-sharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+
+  <img align="center" alt="dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+
+  <img align="center" alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+
+  <img align="center" alt="laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+
+  <img align="center" alt="redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
+
+  <img align="center" alt="redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+
+  <img align="center" alt="kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
   
-  <img align="center" alt="Storybook" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
+</div>
+
+#### Languages I fell in love with, and will be studying in the future
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Crystal" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg">
   
-  <img align="center" alt="Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
-    
-  <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-    
-  <img align="center" alt="Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-    
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    
   <img align="center" alt="Rust" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
 
 </div>
