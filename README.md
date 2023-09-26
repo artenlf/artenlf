@@ -36,3 +36,9 @@
       my social media, private message, or email.
     </p>
 </div>
+
+<div align="center">
+  <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=artenlf">
+    <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=artenlf" width="450" height="195" alt="Progresso 100 dias de codigo">
+  </a>
+</div>
