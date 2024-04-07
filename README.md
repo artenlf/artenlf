@@ -10,18 +10,12 @@
   [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/artenlf)
 
   </div>
-
+  
+  [![wakatime](https://wakatime.com/badge/user/82bd05a2-7ac2-43b7-ad22-d8fe55a788f7.svg)](https://wakatime.com/@82bd05a2-7ac2-43b7-ad22-d8fe55a788f7)
+  
   <h2 align="center">About Me</h2>
-    <div align="right" style="margin:auto">
-      <img 
-      align="right"
-      height="245rem"
-      alt="top languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=artenlf&langs_count=8&theme=tokyonight&layout=compact" 
-      />
-    </div>
     <p align="justify">
-      I am a Software Engineer, eager for knowledge and constantly challenging myself for improving my skills.
+      I am a Software Engineer, eager for knowledge and constantly challenging myself to improve my skills.
       <br>
       <br>
       Over the past year, I have worked mainly as a Web Developer. I have proficiency in <strong>React.js</strong>, 
@@ -32,13 +26,12 @@
       <strong>NoSQL databases</strong>.
       <br>
       <br>
-      I am always seeking to contribute to new Open-Source projects and help other developers. You can reach me at any time through
-      my social media, private message, or email.
+      I always seek to contribute to new Open-Source projects and help other developers. You can reach me anytime through
+      my social media, private messages, or email.
     </p>
 </div>
-
 <div align="center">
-  <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=artenlf">
-    <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=artenlf" width="450" height="195" alt="Progresso 100 dias de codigo">
-  </a>
+  
+ [![arten's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arten&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
