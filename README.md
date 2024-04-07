@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! It's me, Arten!</h1>
 <div align="center">
-  <b>Full-Stack Software Engineer | Tech Enthusiast | Proud Member of <a href="https://discord.io/he4rt">He4rt Developers</a> Community</b>
+  <b>Full-Stack Software Engineer | Tech Enthusiast | Working at <a href="https://bearsystem.onrender.com/">Bear System</a></b>
   <br>
   <br>
   <div align="center">
